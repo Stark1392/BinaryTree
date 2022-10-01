@@ -1,5 +1,8 @@
+// this is a binary three that is implemented in C
 #include<stdio.h>
 #include<stdlib.h>
+
+// this is struct data type
 typedef struct node
 {
 	struct node *left;
